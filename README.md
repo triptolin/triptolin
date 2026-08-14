@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Привет, я triptolin</h1>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   <h3>🛠 Основные технологии</h3>
 
