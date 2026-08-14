@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Привет, я triptolin</h1>
-  
 
   <h3>🛠 Основные технологии</h3>
 
@@ -22,4 +21,9 @@
   <h3>🚀 Чем я занимаюсь</h3>
   <p>Разработка на низком и высоком уровне, веб, базы данных и всё, что интересно.</p>
 
+  <h3>📂 Мои проекты</h3>
+  <p>
+    <a href="https://github.com/triptolin/SRSO-SIMPLE-REQUEST-SIMPLE-OUTPUT-Web">SRSO — SIMPLE REQUEST SIMPLE OUTPUT Web</a><br>
+    <a href="https://github.com/NightFox-YT/Realix">Realix</a>
+  </p>
 </div>
