@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td width="50%">
-        <strong>🌐 SRSO Web</strong><br>
+        <strong>🌐 SRSO</strong><br>
         <small>SIMPLE REQUEST SIMPLE OUTPUT</small><br><br>
         <a href="https://github.com/triptolin/SRSO-SIMPLE-REQUEST-SIMPLE-OUTPUT">
           <img src="https://img.shields.io/badge/Открыть_репозитory-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open Repo">
