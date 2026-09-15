@@ -57,5 +57,5 @@
 
   <br>
   <!-- Опционально: раскомментируйте строку ниже, чтобы добавить красивую статистику GitHub -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=triptolin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=triptolin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400">
 </div>
